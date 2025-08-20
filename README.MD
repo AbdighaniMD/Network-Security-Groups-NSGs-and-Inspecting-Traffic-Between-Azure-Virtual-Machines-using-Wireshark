@@ -12,7 +12,7 @@ In this project, I have gained hands on experience with network traffic between 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure VM
+- Microsoft Azure vm
 - Remote Desktop
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDP, DNS, HTTP/S, ICMP)
